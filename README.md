@@ -76,6 +76,8 @@ DeerFlow has newly integrated the intelligent search and crawling toolset indepe
 
 ## Quick Start
 
+For a CI-aligned developer setup (tools, command order, and run flows), see [`docs/software-development-setup.md`](docs/software-development-setup.md).
+
 ### Configuration
 
 1. **Clone the DeerFlow repository**
